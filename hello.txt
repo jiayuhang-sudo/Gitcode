@@ -2,10 +2,8 @@ Hello Git!
 Hello Github!
 Hello HuaWei!
 
-<<<<<<< HEAD
 Hello ZiJie!
 Hello FireFox!
 
 First
 Second
->>>>>>> hot-fix
