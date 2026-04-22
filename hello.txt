@@ -7,3 +7,5 @@ Hello FireFox!
 
 First
 Second
+
+This year is 2026.
